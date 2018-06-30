@@ -20,3 +20,4 @@ RGBすべてが100%のときは元の画像のままになる.
 opencvでメディアンフィルタを使うにはmedianBlur()を使う.  
 フィルタサイズは1,3,5,というように奇数に設定しなければならないので, トラックバーでは0～20になっているが実際にはそれを2倍して1足した数が実際のサイズになっている. (Nの値が実際のサイズ)  
 参考文献　https://algorithm.joho.info/programming/python/opencv-median-filter-py/
+実行の様子　https://youtu.be/M8AZwmCpuCg
