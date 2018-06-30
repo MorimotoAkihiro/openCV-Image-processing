@@ -1,1 +1,1 @@
-# openCV-Image-processing
+# openCVでカメラ画像を取得して処理する.
